@@ -7,6 +7,6 @@ import org.springframework.stereotype.Component;
 public class helloworld {
     @Bean
     public void print(){
-        System.out.println("Hello madafakas!!!");
+        System.out.println("Hello madafakas yeah!!!");
     }
 }
