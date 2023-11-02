@@ -8,6 +8,6 @@ public class helloworld {
     @Bean
     public void print(){
         System.out.println("Hello madafakas yeah!!!!!");
-        System.out.println("AUTO POLLING TEST 2");
+        System.out.println("AUTO POLLING TEST 4");
     }
 }
